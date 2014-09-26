@@ -1,0 +1,13 @@
+# Logs
+*.log
+
+# Packages
+node_modules/
+assets/components
+
+# Compiled
+assets/js/bundle.js
+assets/js/bundle.min*.js
+assets/css/main.css
+assets/css/main.min*.css
+assets/rev-manifest.json

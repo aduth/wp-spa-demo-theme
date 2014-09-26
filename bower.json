@@ -1,0 +1,12 @@
+{
+  "name": "wp-spa-demo-theme",
+  "version": "0.1.0",
+  "authors": [
+    "Andrew Duthie <andrew@andrewduthie.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "wordpress-core-styles": "~1.0.0"
+  }
+}
